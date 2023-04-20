@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.player {
+  background-color: aquamarine;
+  border: 2px solid green;
+  height: 120px;
+  width: 120px;
+}
